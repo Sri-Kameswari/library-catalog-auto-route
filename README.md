@@ -1,16 +1,8 @@
 # Library Catalog App
 
-A new Flutter project.
+Library Catalog app which implements auto_route between pages.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/029e7118-896d-424b-81d3-74fa6f8d5bd8" width="300"/>
+<img src="https://github.com/user-attachments/assets/1a378952-7cf1-454b-ad72-7f1fcbba84ee" width="300"/>
